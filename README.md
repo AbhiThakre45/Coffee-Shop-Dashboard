@@ -51,6 +51,13 @@
 - [Coffee Shop Sales  Analysis.xlsx](Coffee%20Shop%20Sales%20%20Analysis.xlsx)  Excel file with raw data, pivots, and final dashboard  
 - [`dashboard.png`](Dashboard%20img.png) – Dashboard image preview
 
+---
+## 📎 **How to Use**
+1. Download the [Coffee Shop Sales  Analysis.xlsx](Coffee%20Shop%20Sales%20%20Analysis.xlsx) file.
+2. Open it in MS Excel Desktop
+3. Explore different dashboard sections.
+4. Use slicers to filter by month and day to view dynamic results.
+
 
 
 

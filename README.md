@@ -58,6 +58,19 @@
 3. Explore different dashboard sections.
 4. Use slicers to filter by month and day to view dynamic results.
 
+---
+
+## 👨‍💻 ** Author ** 
+**Abhishek Thakre**  
+*Aspiring Data Analyst | Skilled in Excel, Power BI, SQL*
+
+[LinkedIn Profile](https://www.linkedin.com/in/abhishek-thakre)  
+*(Feel free to connect!)*
+
+---
+
+## 📌** Note ** 
+This project is created for learning, portfolio building, and interview showcase purposes in the field of data analysis.
 
 
 

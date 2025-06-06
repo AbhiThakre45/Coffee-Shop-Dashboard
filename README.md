@@ -64,7 +64,7 @@
 **Abhishek Thakre**  
 *Aspiring Data Analyst | Skilled in Excel, Power BI, SQL*
 
-[LinkedIn Profile](https://www.linkedin.com/in/abhishek-thakre)  
+[LinkedIn Profile](https://www.linkedin.com/in/abhishek-thakre13/)  
 *(Feel free to connect!)*
 
 ---

@@ -47,8 +47,8 @@
 ![Dashboard Screenshot](Dashboard%20img.png)
 
 ---
-## 📂** Files Included**  
-- [`Coffee_Shop_Sales_Analysis.xlsx`](Coffee_Shop_Sales_Analysis.xlsx) – Excel file with raw data, pivots, and final dashboard  
+## 📂 ** Files Included**  
+- [Coffee Shop Sales  Analysis.xlsx](Coffee%20Shop%20Sales%20%20Analysis.xlsx)  Excel file with raw data, pivots, and final dashboard  
 - [`dashboard.png`](dashboard.png) – Dashboard image preview
 
 

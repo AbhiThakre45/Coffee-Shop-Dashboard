@@ -44,6 +44,8 @@
 
 --- 
 ## 📷 **Dashboard Preview**
+![Dashboard Screenshot](dashboard_img)
+
 
 
 

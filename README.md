@@ -1,4 +1,4 @@
- # ☕ **Coffee Shop Sales Analysis Dashboard**
+# ☕ **Coffee Shop Sales Analysis Dashboard**
 
 ## 📋 **Project Summary**
   A comprehensive sales performance dashboard analyzing coffee shop chain data to identify top stores, products, and sales trends, helping management improve strategic decisions.
@@ -48,8 +48,8 @@
 
 ---
 ## 📂 **Files Included**
-- `` – Excel file with raw data, pivots, and final dashboard
-- `Screenshot (195).png` – Dashboard image preview
+- `Coffee Shop Sales  Analysis.xlsx` – Excel file with raw data, pivots, and final dashboard
+- `` – Dashboard image preview
 
 
 

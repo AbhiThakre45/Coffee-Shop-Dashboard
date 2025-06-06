@@ -13,7 +13,7 @@
 
   ---
 
-  ## 🎯 **Objective**
+## 🎯 **Objective**
   
 - Analyze store-wise and product-wise sales performance.
 - Track key performance indicators such as total revenue, sales volume, and average order value.
@@ -49,7 +49,7 @@
 ---
 ## 📂 ** Files Included**  
 - [Coffee Shop Sales  Analysis.xlsx](Coffee%20Shop%20Sales%20%20Analysis.xlsx)  Excel file with raw data, pivots, and final dashboard  
-- [`dashboard.png`](dashboard.png) – Dashboard image preview
+- [`dashboard.png`](Dashboard%20img.png) – Dashboard image preview
 
 
 

@@ -23,7 +23,7 @@
 
 --- 
 
-## 📊 ** Insights**
+## 📊 **Insights**
 
 - **Lower Manhattan** store showed consistently high revenue.
 - **Barista Espresso** is the top-selling product (16.57% share).
@@ -33,7 +33,7 @@
 
 ---
 
-## 📌 ** Tools Used**
+## 📌 **Tools Used**
 
   - **Microsoft Excel**
   - Pivot Tables
@@ -47,7 +47,7 @@
 ![Dashboard Screenshot](Dashboard%20img.png)
 
 ---
-## 📂 ** Files Included**  
+## 📂 **Files Included**  
 - [Coffee Shop Sales  Analysis.xlsx](Coffee%20Shop%20Sales%20%20Analysis.xlsx)  Excel file with raw data, pivots, and final dashboard  
 - [`dashboard.png`](Dashboard%20img.png) – Dashboard image preview
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 👨‍💻 ** Author ** 
+## 👨‍💻 **Author ** 
 **Abhishek Thakre**  
 *Aspiring Data Analyst | Skilled in Excel, Power BI, SQL*
 

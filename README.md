@@ -23,7 +23,7 @@
 
 --- 
 
-## 📊** Insights**
+## 📊 ** Insights**
 
 - **Lower Manhattan** store showed consistently high revenue.
 - **Barista Espresso** is the top-selling product (16.57% share).
@@ -33,7 +33,7 @@
 
 ---
 
-## 📌** Tools Used**
+## 📌 ** Tools Used**
 
   - **Microsoft Excel**
   - Pivot Tables

@@ -60,7 +60,7 @@
 
 ---
 
-## 👨‍💻 **Author ** 
+## 👨‍💻 **Author** 
 **Abhishek Thakre**  
 *Aspiring Data Analyst | Skilled in Excel, Power BI, SQL*
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 📌** Note ** 
+## 📌 **Note** 
 This project is created for learning, portfolio building, and interview showcase purposes in the field of data analysis.
 
 
